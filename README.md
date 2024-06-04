@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarish Ali</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/CodeByAarish/CodeByAarish/assets/141957149/a96e7c02-bdf6-4a7f-873f-40561ddee62f)
+<img align="right"alt="coding"width="200"src="![image](https://github.com/CodeByAarish/CodeByAarish/assets/141957149/2fa78a2b-92e1-4bc6-af9a-f04d01b398e2)
 ">
 
 - 🌱 I’m currently learning **MLOps and Advanced Machine Learning Algorithms**
